@@ -1,13 +1,5 @@
 ## NOTE: This code has been tested on Google Colab.
 
-!mkdir data
-!cd data
-
-!wget https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/static/wiki_crop.tar
-
-!cd data
-!tar -xvf wiki_crop.tar
-
 import math
 import os
 import time
